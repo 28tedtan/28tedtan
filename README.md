@@ -6,7 +6,7 @@ I'm a builder who works across a wide stack — from native iOS apps to web tool
 
 ---
 
-## 🛠 Languages & Tools
+## Languages & Tools
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-black?style=flat-square&logo=swift&logoColor=F05138)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=3776AB)
@@ -19,7 +19,7 @@ I'm a builder who works across a wide stack — from native iOS apps to web tool
 
 ---
 
-## 🚀 Projects
+## My Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -30,20 +30,13 @@ I'm a builder who works across a wide stack — from native iOS apps to web tool
 
 ---
 
-## 📊 Coding Activity
-
-<!-- WakaTime stats — rendered via GitHub Actions -->
-{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
-
----
-
-## 🗓 Contribution Heatmap
+## 📊 Coding Heatmap | Wakatime |
 
 <img src="https://heatmap.shymike.dev/?id=1583&timezone=Asia/Kuala_Lumpur" alt="Contribution Heatmap" width="100%" />
 
 ---
 
-## 📬 Connect
+## Come connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ted_Tan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ted-tan-410bb028a/)
 [![GitHub](https://img.shields.io/badge/GitHub-28tedtan-181717?style=flat-square&logo=github)](https://github.com/28tedtan)
