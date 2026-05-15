@@ -18,10 +18,7 @@ I'm a builder who works across a wide stack — from native iOS apps to web tool
 ![Lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua&logoColor=2C2D72)
 
 ---
-{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
 
-
----
 ## My Projects
 
 | Project | Description | Stack |
