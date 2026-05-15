@@ -1,7 +1,8 @@
 # Hey, i'm Ted
 
 I'm a builder who works across a wide stack — from native iOS apps to web tools, accessibility hardware, and everything in between. Currently based in UTC+8.
-Currently working at AWS
+
+## Currently working at AWS
 ---
 
 ## Languages & Tools
@@ -25,7 +26,7 @@ Currently working at AWS
 | [LLMTest](https://github.com/28tedtan/LLMTest) | Python code generation SaaS productivity tool for students | Python |
 | [virtualdesktop](https://github.com/28tedtan/virtualdesktop) | Cute virtual desktop experience in the browser | HTML |
 | [ALShelper](https://github.com/28tedtan/ALShelper) | ComMuni — ergonomic 3-key assistive communication device for motor disabilities. Uses CircuitPython, Adafruit HID & a Streamlit web app | Python |
-
+| [Travely](https://github.com/28tedtan/travely) | Al Powered Travel planning agent that fetches data and accommodation info from other travel websites | React |
 ---
 
 ## 📊 Coding Heatmap | Wakatime |
