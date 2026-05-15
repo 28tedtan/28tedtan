@@ -1,8 +1,8 @@
 # Hey, i'm Ted
 
 I'm a builder who works across a wide stack — from native iOS apps to web tools, accessibility hardware, and everything in between. Currently based in UTC+8.
-
 Currently working at AWS
+
 ---
 
 ## Languages & Tools
