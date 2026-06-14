@@ -1,4 +1,4 @@
-# Hey, i'm Ted
+# Hey, i'm Ted.
 
 I'm a builder who works across a wide stack — from native iOS apps to web tools, accessibility hardware, and everything in between. Currently based in UTC+8.
 Currently working at AWS
@@ -31,11 +31,16 @@ Currently working at AWS
 
 ## 📊 Coding Heatmap | Wakatime |
 
-<img src="https://heatmap.shymike.dev/?id=1583&timezone=Asia/Kuala_Lumpur" alt="Contribution Heatmap" width="100%" />
+<a href="https://heatmap.shymike.dev?id=1582&timezone=Asia%2FKuala_Lumpur&labels=true&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=1582&timezone=Asia%2FKuala_Lumpur&labels=true&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=1582&timezone=Asia%2FKuala_Lumpur&labels=true&theme=light">
+    </picture>
+</a>
 
 ---
 
-## Come connect with me!
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ted_Tan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ted-tan-410bb028a/)
 [![GitHub](https://img.shields.io/badge/GitHub-28tedtan-181717?style=flat-square&logo=github)](https://github.com/28tedtan)
