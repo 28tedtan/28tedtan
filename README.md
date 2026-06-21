@@ -29,7 +29,7 @@ Currently working at AWS
 | [Travely](https://github.com/28tedtan/travely) | Al Powered Travel planning agent that fetches data and accommodation info from other travel websites | React |
 ---
 
-## 📊 Coding Heatmap | Wakatime |
+## 📊 Local Coding Heatmap | Wakatime 
 
 <a href="https://heatmap.shymike.dev?id=1582&timezone=Asia%2FKuala_Lumpur&labels=true&standalone=true" title="Click to view detailed data for each day!">
     <picture>
