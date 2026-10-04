@@ -37,7 +37,8 @@ Currently working at AWS
         <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=1582&timezone=Asia%2FKuala_Lumpur&labels=true&theme=light">
     </picture>
 </a>
-### In case i don't push
+
+In case i don't push
 ---
 
 ## Connect with me
