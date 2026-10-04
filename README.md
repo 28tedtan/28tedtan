@@ -38,7 +38,7 @@ Currently working at AWS
     </picture>
 </a>
 
-In case i don't push
+
 ---
 
 ## Connect with me
